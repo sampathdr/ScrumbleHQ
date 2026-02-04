@@ -1,0 +1,17 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/Core/">
+    <Project Path="src/Core/ScrumbleHQ.Application/ScrumbleHQ.Application.csproj" />
+    <Project Path="src/Core/ScrumbleHQ.Domain/ScrumbleHQ.Domain.csproj" />
+  </Folder>
+  <Folder Name="/src/Infrastructure/">
+    <Project Path="src/Infrastructure/ScrumbleHQ.Infrastructure/ScrumbleHQ.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/src/Presentation/">
+    <Project Path="src/Presentation/ScrumbleHQ.API/ScrumbleHQ.API.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ScrumbleHQ.IntegrationTests/ScrumbleHQ.IntegrationTests.csproj" />
+    <Project Path="tests/ScrumbleHQ.UnitTests/ScrumbleHQ.UnitTests.csproj" />
+  </Folder>
+</Solution>
